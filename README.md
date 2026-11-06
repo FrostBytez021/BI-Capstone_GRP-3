@@ -41,5 +41,5 @@ No API keys are needed.
 ## Notes
 
 - Revenue figures are gross estimates for ranking and comparison only, not actual earnings.
-- The `reviews` table contains public Steam user IDs. Don't redistribute it or use it to identify individuals.
-- Credit SteamSpy and Steam as data sources.
+- The `reviews` table contains public Steam user IDs. We did not redistribute it or use it to identify individuals.
+- SteamSpy and Steam were used as data sources. All data are credited to them
