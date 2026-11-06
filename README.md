@@ -3,7 +3,8 @@
 A web-based business intelligence dashboard for estimating and analyzing game sales on Steam.
 
 **McReg Analytics** (3DSA1, Group 3), DSA4157 Business Intelligence, University of Santo Tomas
-Mikaela Angela Carlos · Drei Cerise Dayag · Althea Marie Habaluyas · Maria Camela Oliva
+
+Authors: Mikaela Angela Carlos · Drei Cerise Dayag · Althea Marie Habaluyas · Maria Camela Oliva
 
 ## Overview
 
