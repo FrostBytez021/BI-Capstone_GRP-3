@@ -10,7 +10,7 @@ Authors: Mikaela Angela Carlos · Drei Cerise Dayag · Althea Marie Habaluyas ·
 
 Steam does not publish sales figures, so this project estimates units sold and gross revenue from public data. A Python pipeline (`steam_scraper.py`) collects data from four public Steam sources into a 26-table SQLite database. After cleaning, the dataset has **990 games** (747 paid, 243 free-to-play), all with 1M+ estimated owners, collected on 19–21 October 2026.
 
-> **Additional Plan:** to increase row counts, we plan to combine the Steam dataset with data from other storefronts such as the Epic Games Store.
+> **Plans:** To compare sales figures, we plan to combine the Steam dataset with data from other storefronts such as the Epic Games Store.
 
 ## Data sources
 
